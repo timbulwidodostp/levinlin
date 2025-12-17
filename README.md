@@ -1,6 +1,8 @@
 # levinlin
 Levin-Lin-Chu panel unit root test Use levinlin With STATA 19
 
+https://www.youtube.com/watch?v=iSLd75IupLo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
